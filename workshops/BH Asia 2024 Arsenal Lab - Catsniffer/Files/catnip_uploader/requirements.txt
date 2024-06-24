@@ -1,7 +1,7 @@
 certifi==2023.11.17
 charset-normalizer==3.3.2
 click==8.1.7
-idna==3.6
+idna==3.7
 intelhex==2.3.0
 pyserial==3.5
 python-magic==0.4.27
